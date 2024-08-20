@@ -1,13 +1,14 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "Biography"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+My name is Patrick McHugh, and I am a statistics PhD student at The Ohio State University. As I work towards my candidacy exam, I am researching topics related to causal inference and meta-analysis in a Bayesian setting, advised by [Dr. Elly Kaizar](https://www.asc.ohio-state.edu/kaizar.1) and [Dr. Chris Hans](https://www.stat.osu.edu/~hans). I also am currently collaborating with [Lawrence Livermore National Laboratory](https://www.llnl.gov/) on a research project related to the design of computer experiments. Before graduate school, I received an undergraduate degree in Data Analytics and worked as a data scientist for three years.
+
 
 A data-driven personal website
 ======
