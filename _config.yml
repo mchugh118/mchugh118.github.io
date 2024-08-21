@@ -21,7 +21,7 @@ repository               : "mchugh118/mchugh118.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "mchugh_profile_pic_crop.jpg"
+  avatar           : "mchugh_profile_pic_crop.JPG"
   name             : "Information"
   pronouns         : # example: "she/her"  
   bio              : # "Short biography for the left-hand sidebar"
