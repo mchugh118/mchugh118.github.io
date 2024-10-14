@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-My name is Patrick McHugh, and I am a statistics PhD student at The Ohio State University. As I work towards my candidacy exam, I am researching topics related to causal inference and meta-analysis in a Bayesian setting, advised by [Dr. Elly Kaizar](https://stat.osu.edu/people/kaizar.1) and [Dr. Chris Hans](https://www.stat.osu.edu/~hans). I also am currently collaborating with [Lawrence Livermore National Laboratory](https://www.llnl.gov/) on a research project related to the design of computer experiments. Before graduate school, I received an undergraduate degree in Data Analytics and worked as a data scientist for three years.
+My name is Patrick McHugh, and I am a statistics PhD student at The Ohio State University. As I work towards my candidacy exam, I am researching topics related to causal inference and meta-analysis in a Bayesian setting, co-advised by [Dr. Elly Kaizar](https://stat.osu.edu/people/kaizar.1) and [Dr. Chris Hans](https://www.stat.osu.edu/~hans). I also am currently collaborating with [Lawrence Livermore National Laboratory](https://www.llnl.gov/) on a research project related to the design of computer experiments. Before graduate school, I received an undergraduate degree in Data Analytics and worked as a data scientist for three years.
 
 
 A data-driven personal website
