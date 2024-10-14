@@ -1,13 +1,13 @@
 ---
-title: "Design of experiments publication coming soon"
+title: "Design of experiments manuscript coming soon"
 collection: publications
 category: manuscripts
 permalink: /publication/design
 excerpt: '.....'
 date: 2024-08-21
-venue: '...'
+# venue: ''
 paperurl: 'https://arxiv.org'
-citation: 'Author &quot;Title&quot; <i>Journal</i>. 1(3).'
+# citation: 'Author &quot;Title&quot; <i>Journal</i>. 1(3).'
 ---
 
 
